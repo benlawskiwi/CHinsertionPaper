@@ -1,0 +1,611 @@
+\providecommand{\latin}[1]{#1}
+\makeatletter
+\providecommand{\doi}
+  {\begingroup\let\do\@makeother\dospecials
+  \catcode`\{=1 \catcode`\}=2 \doi@aux}
+\providecommand{\doi@aux}[1]{\endgroup\texttt{#1}}
+\makeatother
+\providecommand*\mcitethebibliography{\thebibliography}
+\csname @ifundefined\endcsname{endmcitethebibliography}
+  {\let\endmcitethebibliography\endthebibliography}{}
+\begin{mcitethebibliography}{66}
+\providecommand*\natexlab[1]{#1}
+\providecommand*\mciteSetBstSublistMode[1]{}
+\providecommand*\mciteSetBstMaxWidthForm[2]{}
+\providecommand*\mciteBstWouldAddEndPuncttrue
+  {\def\EndOfBibitem{\unskip.}}
+\providecommand*\mciteBstWouldAddEndPunctfalse
+  {\let\EndOfBibitem\relax}
+\providecommand*\mciteSetBstMidEndSepPunct[3]{}
+\providecommand*\mciteSetBstSublistLabelBeginEnd[3]{}
+\providecommand*\EndOfBibitem{}
+\mciteSetBstSublistMode{f}
+\mciteSetBstMaxWidthForm{subitem}{(\alph{mcitesubitemcount})}
+\mciteSetBstSublistLabelBeginEnd
+  {\mcitemaxwidthsubitemform\space}
+  {\relax}
+  {\relax}
+
+\bibitem[Frenklach(2002)]{fre02}
+Frenklach,~M. Reaction mechanism of soot formation in flames. \emph{Phys. Chem.
+  Chem. Phys.} \textbf{2002}, \emph{4}, 2028--2037\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Wang(2011)]{wan11}
+Wang,~H. Formation of nascent soot and other condensed-phase materials in
+  flames. \emph{P. Combust. Inst.} \textbf{2011}, \emph{33}, 41 -- 67\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Faccinetto \latin{et~al.}(2020)Faccinetto, Irimiea, Minutolo, Commodo,
+  D’Anna, Nuns, Carpentier, Pirim, Desgroux, Focsa, and et~al.]{fac20}
+Faccinetto,~A.; Irimiea,~C.; Minutolo,~P.; Commodo,~M.; D’Anna,~A.; Nuns,~N.;
+  Carpentier,~Y.; Pirim,~C.; Desgroux,~P.; Focsa,~C.; et~al., Evidence on the
+  formation of dimers of polycyclic aromatic hydrocarbons in a laminar
+  diffusion flame. \emph{Commun. Chem.} \textbf{2020}, \emph{3}, 112\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Henning and Salama(1998)Henning, and Salama]{hen98}
+Henning,~T.; Salama,~F. Carbon in the Universe. \emph{Science} \textbf{1998},
+  \emph{282}, 2204--2210\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Jäger \latin{et~al.}(2009)Jäger, Huisken, Mutschke, Jansa, and
+  Henning]{jag09}
+Jäger,~C.; Huisken,~F.; Mutschke,~H.; Jansa,~I.~L.; Henning,~T. Formation of
+  Polycyclic Aromatic Hydrocarbons and Carbonaceous Solids in Gas-Phase
+  Condensation Experiments. \emph{Astrophys. J.} \textbf{2009}, \emph{696},
+  706--712\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Draine and Li(2001)Draine, and Li]{dra01}
+Draine,~B.~T.; Li,~A. Infrared Emission from Interstellar Dust. I. Stochastic
+  Heating of Small Grains. \emph{Astrophys. J.} \textbf{2001}, \emph{551},
+  807--824\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Draine and Li(2007)Draine, and Li]{dra07}
+Draine,~B.~T.; Li,~A. Infrared Emission from Interstellar Dust. IV. The
+  Silicate‐Graphite‐PAH Model in the Post‐Spitzer Era. \emph{Astrophys.
+  J.} \textbf{2007}, \emph{657}, 810–837\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Ramanathan and Carmichael(2008)Ramanathan, and Carmichael]{ram08}
+Ramanathan,~V.; Carmichael,~G. Global and regional climate changes due to black
+  carbon. \emph{Nat. Geosci.} \textbf{2008}, \emph{1}, 221–227\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Finlayson-Pitts(1997)]{fin97}
+Finlayson-Pitts,~B.~J. Tropospheric Air Pollution: Ozone, Airborne Toxics,
+  Polycyclic Aromatic Hydrocarbons, and Particles. \emph{Science}
+  \textbf{1997}, \emph{276}, 1045–1051\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Denissenko \latin{et~al.}(1996)Denissenko, Pao, Tang, and
+  Pfeifer]{den96}
+Denissenko,~M.~F.; Pao,~A.; Tang,~M.-S.; Pfeifer,~G.~P. Preferential Formation
+  of Benzo[a]pyrene Adducts at Lung Cancer Mutational Hotspots in P53.
+  \emph{Science} \textbf{1996}, \emph{274}, 430--432\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Tiwari \latin{et~al.}(2017)Tiwari, Sahu, and Pandit]{tiw17}
+Tiwari,~M.; Sahu,~S.; Pandit,~G. Distribution of PAHs in different compartment
+  of creek ecosystem: Ecotoxicological concern and human health risk.
+  \emph{Environ. Toxicol. Phar.} \textbf{2017}, \emph{50}, 58 -- 66\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Tielens(2013)]{tie13}
+Tielens,~A. G. G.~M. The molecular universe. \emph{Rev. Mod. Phys.}
+  \textbf{2013}, \emph{85}, 1021–1081\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Pech \latin{et~al.}(2002)Pech, Joblin, and Boissel]{pec02}
+Pech,~C.; Joblin,~C.; Boissel,~P. The profiles of the aromatic infrared bands
+  explained with molecular carriers. \emph{Astron. Astrophys.} \textbf{2002},
+  \emph{388}, 639--651\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Tielens(2008)]{tie08}
+Tielens,~A. Interstellar Polycyclic Aromatic Hydrocarbon Molecules. \emph{Annu.
+  Rev. Astron. Astr.} \textbf{2008}, \emph{46}, 289–337\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Dwek \latin{et~al.}(1997)Dwek, Arendt, Fixsen, Sodroski, Odegard,
+  Weiland, Reach, Hauser, Kelsall, Moseley, and et~al.]{dwe97}
+Dwek,~E.; Arendt,~R.~G.; Fixsen,~D.~J.; Sodroski,~T.~J.; Odegard,~N.;
+  Weiland,~J.~L.; Reach,~W.~T.; Hauser,~M.~G.; Kelsall,~T.; Moseley,~S.~H.;
+  et~al., Detection and Characterization of Cold Interstellar Dust and
+  Polycyclic Aromatic Hydrocarbon Emission, from COBE Observations.
+  \emph{Astrophys. J.} \textbf{1997}, \emph{475}, 565–579\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[D'Hendecourt and Ehrenfreund(1997)D'Hendecourt, and
+  Ehrenfreund]{dhe97}
+D'Hendecourt,~L.; Ehrenfreund,~P. Spectroscopic properties of polycyclic
+  aromatic hydrocarbons (PAHs) and astrophysical implications. \emph{Adv. Space
+  Res.} \textbf{1997}, \emph{19}, 1023–1032\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Cernicharo \latin{et~al.}(2001)Cernicharo, Heras, Tielens, Pardo,
+  Herpin, Gu{\'{e}}lin, and Waters]{cer01}
+Cernicharo,~J.; Heras,~A.~M.; Tielens,~A. G. G.~M.; Pardo,~J.~R.; Herpin,~F.;
+  Gu{\'{e}}lin,~M.; Waters,~L. B. F.~M. $Infrared$ $Space$ $Observatory's$
+  Discovery of C$_4$H$_2$, C$_6$H$_2$, and Benzene in {CRL} 618.
+  \emph{Astrophys. J.} \textbf{2001}, \emph{546}, L123--L126\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[McGuire \latin{et~al.}(2018)McGuire, Burkhardt, Kalenskii,
+  Shingledecker, Remijan, Herbst, and McCarthy]{mcg18}
+McGuire,~B.~A.; Burkhardt,~A.~M.; Kalenskii,~S.; Shingledecker,~C.~N.;
+  Remijan,~A.~J.; Herbst,~E.; McCarthy,~M.~C. Detection of the aromatic
+  molecule benzonitrile (c-C$_6$H$_5$CN) in the interstellar medium.
+  \emph{Science} \textbf{2018}, \emph{359}, 202--205\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Cami \latin{et~al.}(2010)Cami, Bernard-Salas, Peeters, and
+  Malek]{cam10}
+Cami,~J.; Bernard-Salas,~J.; Peeters,~E.; Malek,~S.~E. Detection of C$_{60}$
+  and C$_{70}$ in a Young Planetary Nebula. \emph{Science} \textbf{2010},
+  \emph{329}, 1180--1182\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Campbell \latin{et~al.}(2015)Campbell, Holz, Gerlich, and
+  Maier]{cam15}
+Campbell,~E.~K.; Holz,~M.; Gerlich,~D.; Maier,~J.~P. Laboratory confirmation of
+  C$_{60}^{+}$ as the carrier of two diffuse interstellar bands. \emph{Nature}
+  \textbf{2015}, \emph{523}, 322–323\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[{Frenklach} and {Feigelson}(1989){Frenklach}, and {Feigelson}]{fre89}
+{Frenklach},~M.; {Feigelson},~E.~D. {Formation of Polycyclic Aromatic
+  Hydrocarbons in Circumstellar Envelopes}. \emph{Astrophys. J.} \textbf{1989},
+  \emph{341}, 372\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Frenklach \latin{et~al.}(1985)Frenklach, Clary, Gardiner, and
+  Stein]{fre85}
+Frenklach,~M.; Clary,~D.~W.; Gardiner,~W.~C.; Stein,~S.~E. Detailed kinetic
+  modeling of soot formation in shock-tube pyrolysis of acetylene. \emph{Symp.
+  (Int.) Combust.} \textbf{1985}, \emph{20}, 887 -- 901\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Parker \latin{et~al.}(2014)Parker, Kaiser, Troy, and Ahmed]{par14}
+Parker,~D. S.~N.; Kaiser,~R.~I.; Troy,~T.~P.; Ahmed,~M. Hydrogen
+  Abstraction/Acetylene Addition Revealed. \emph{Angew. Chem. Int. Edit.}
+  \textbf{2014}, \emph{53}, 7740–7744\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Yang \latin{et~al.}(2016)Yang, Troy, Xu, Kostko, Ahmed, Mebel, and
+  Kaiser]{yan16}
+Yang,~T.; Troy,~T.~P.; Xu,~B.; Kostko,~O.; Ahmed,~M.; Mebel,~A.~M.;
+  Kaiser,~R.~I. Hydrogen-Abstraction/Acetylene-Addition Exposed. \emph{Angew.
+  Chem. Int. Edit.} \textbf{2016}, \emph{55}, 14983--14987\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Zhao \latin{et~al.}(2018)Zhao, Kaiser, Xu, Ablikim, Ahmed, Joshi,
+  Veber, Fischer, and Mebel]{zha18}
+Zhao,~L.; Kaiser,~R.~I.; Xu,~B.; Ablikim,~U.; Ahmed,~M.; Joshi,~D.; Veber,~G.;
+  Fischer,~F.~R.; Mebel,~A.~M. Pyrene synthesis in circumstellar envelopes and
+  its role in the formation of 2D nanostructures. \emph{Nat. Astron.}
+  \textbf{2018}, \emph{2}, 413–419\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Raj \latin{et~al.}(2012)Raj, Prada, Amer, and Chung]{raj12}
+Raj,~A.; Prada,~I. D.~C.; Amer,~A.~A.; Chung,~S.~H. A reaction mechanism for
+  gasoline surrogate fuels for large polycyclic aromatic hydrocarbons.
+  \emph{Combust. Flame} \textbf{2012}, \emph{159}, 500 -- 515\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[{Micelotta, E. R.} \latin{et~al.}(2010){Micelotta, E. R.}, {Jones, A.
+  P.}, and {Tielens, A. G. G. M.}]{mic10a}
+{Micelotta, E. R.},; {Jones, A. P.},; {Tielens, A. G. G. M.}, Polycyclic
+  aromatic hydrocarbon processing in a hot gas. \emph{Astron. Astrophys.}
+  \textbf{2010}, \emph{510}, A37\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[{Micelotta, E. R.} \latin{et~al.}(2010){Micelotta, E. R.}, {Jones, A.
+  P.}, and {Tielens, A. G. G. M.}]{mic10b}
+{Micelotta, E. R.},; {Jones, A. P.},; {Tielens, A. G. G. M.}, Polycyclic
+  aromatic hydrocarbon processing in interstellar shocks. \emph{Astron.
+  Astrophys.} \textbf{2010}, \emph{510}, A36\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[{Micelotta, E. R.} \latin{et~al.}(2011){Micelotta, E. R.}, {Jones, A.
+  P.}, and {Tielens, A. G. G. M.}]{mic11}
+{Micelotta, E. R.},; {Jones, A. P.},; {Tielens, A. G. G. M.}, Polycyclic
+  aromatic hydrocarbon processing by cosmic rays. \emph{Astron. Astrophys.}
+  \textbf{2011}, \emph{526}, A52\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Melius \latin{et~al.}(1996)Melius, Colvin, Marinov, Pit, and
+  Senkan]{mel96}
+Melius,~C.~F.; Colvin,~M.~E.; Marinov,~N.~M.; Pit,~W.~J.; Senkan,~S.~M.
+  Reaction mechanisms in aromatic hydrocarbon formation involving the
+  C$_5$H$_5$ cyclopentadienyl moiety. \emph{Symp. (Int.) Combust.}
+  \textbf{1996}, \emph{26}, 685 -- 692\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Miller and Melius(1992)Miller, and Melius]{mil92}
+Miller,~J.~A.; Melius,~C.~F. Kinetic and thermodynamic issues in the formation
+  of aromatic compounds in flames of aliphatic fuels. \emph{Combust. Flame}
+  \textbf{1992}, \emph{91}, 21 -- 39\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Johansson \latin{et~al.}(2018)Johansson, Head-Gordon, Schrader,
+  Wilson, and Michelsen]{joh18}
+Johansson,~K.~O.; Head-Gordon,~M.~P.; Schrader,~P.~E.; Wilson,~K.~R.;
+  Michelsen,~H.~A. Resonance-stabilized hydrocarbon-radical chain reactions may
+  explain soot inception and growth. \emph{Science} \textbf{2018}, \emph{361},
+  997--1000\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Siegmann and Sattler(2000)Siegmann, and Sattler]{sie00}
+Siegmann,~K.; Sattler,~K. Formation mechanism for polycyclic aromatic
+  hydrocarbons in methane flames. \emph{J. Chem. Phys.} \textbf{2000},
+  \emph{112}, 698--709\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Shukla \latin{et~al.}(2008)Shukla, Susa, Miyoshi, and Koshi]{shu08}
+Shukla,~B.; Susa,~A.; Miyoshi,~A.; Koshi,~M. Role of Phenyl Radicals in the
+  Growth of Polycyclic Aromatic Hydrocarbons. \emph{J. Phys. Chem. A}
+  \textbf{2008}, \emph{112}, 2362--2369, PMID: 18298104\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Shukla \latin{et~al.}(2010)Shukla, Miyoshi, and Koshi]{shu10}
+Shukla,~B.; Miyoshi,~A.; Koshi,~M. Role of Methyl Radicals in the Growth of
+  PAHs. \emph{J. Am. Soc. Mass Spectr.} \textbf{2010}, \emph{21}, 534 --
+  544\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Frenklach and Mebel(2020)Frenklach, and Mebel]{fre20}
+Frenklach,~M.; Mebel,~A.~M. On the mechanism of soot nucleation. \emph{Phys.
+  Chem. Chem. Phys.} \textbf{2020}, \emph{22}, 5314--5331\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Kislov \latin{et~al.}(2013)Kislov, Sadovnikov, and Mebel]{kis13}
+Kislov,~V.~V.; Sadovnikov,~A.~I.; Mebel,~A.~M. Formation Mechanism of
+  Polycyclic Aromatic Hydrocarbons beyond the Second Aromatic Ring. \emph{J.
+  Phys. Chem. A} \textbf{2013}, \emph{117}, 4794--4816, PMID: 23672431\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Moskaleva \latin{et~al.}(1996)Moskaleva, Mebel, and Lin]{mos96}
+Moskaleva,~L.; Mebel,~A.; Lin,~M. The CH$_3$+C$_5$H$_5$ reaction: A potential
+  source of benzene at high temperatures. \emph{Symp. (Int.) Combust.}
+  \textbf{1996}, \emph{26}, 521 -- 526\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Sharma and Green(2009)Sharma, and Green]{sha09}
+Sharma,~S.; Green,~W.~H. Computed Rate Coefficients and Product Yields for
+  c-C$_5$H$_5$ + CH$_3$ $\rightarrow$ Products. \emph{J. Phys. Chem. A}
+  \textbf{2009}, \emph{113}, 8871--8882, PMID: 19591475\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Mebel \latin{et~al.}(2016)Mebel, Georgievskii, Jasper, and
+  Klippenstein]{meb16}
+Mebel,~A.~M.; Georgievskii,~Y.; Jasper,~A.~W.; Klippenstein,~S.~J.
+  Pressure-dependent rate constants for PAH growth: formation of indene and its
+  conversion to naphthalene. \emph{Faraday Discuss.} \textbf{2016}, \emph{195},
+  637–670\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Jasper and Hansen(2013)Jasper, and Hansen]{jas13}
+Jasper,~A.~W.; Hansen,~N. Hydrogen-assisted isomerizations of fulvene to
+  benzene and of larger cyclic aromatic hydrocarbons. \emph{P. Combust. Inst.}
+  \textbf{2013}, \emph{34}, 279 -- 287\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Zhao \latin{et~al.}(2019)Zhao, Kaiser, Lu, Xu, Ahmed, Morozov, Mebel,
+  Howlader, and Wnuk]{zha19}
+Zhao,~L.; Kaiser,~R.~I.; Lu,~W.; Xu,~B.; Ahmed,~M.; Morozov,~A.~N.;
+  Mebel,~A.~M.; Howlader,~A.~H.; Wnuk,~S.~F. Molecular mass growth through ring
+  expansion in polycyclic aromatic hydrocarbons via radical–radical
+  reactions. \emph{Nat. Commun.} \textbf{2019}, \emph{10}\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Mebel \latin{et~al.}(2017)Mebel, Landera, and Kaiser]{meb17}
+Mebel,~A.~M.; Landera,~A.; Kaiser,~R.~I. Formation Mechanisms of Naphthalene
+  and Indene: From the Interstellar Medium to Combustion Flames. \emph{J. Phys.
+  Chem. A} \textbf{2017}, \emph{121}, 901--926\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Porfiriev \latin{et~al.}(2020)Porfiriev, Azyazov, and Mebel]{por20}
+Porfiriev,~D.~P.; Azyazov,~V.~N.; Mebel,~A.~M. Conversion of acenaphthalene to
+  phenalene via methylation: A theoretical study. \emph{Combust. Flame}
+  \textbf{2020}, \emph{213}, 302 -- 313\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Morita \latin{et~al.}(2011)Morita, Suzuki, Sato, and Takui]{mor11}
+Morita,~Y.; Suzuki,~S.; Sato,~K.; Takui,~T. Synthetic organic spin chemistry
+  for structurally well-defined open-shell graphene fragments. \emph{Nat.
+  Chem.} \textbf{2011}, \emph{3}, 197–204\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[O{'}Connor \latin{et~al.}(2017)O{'}Connor, Chan, Sanelli, Cergol,
+  Dryza, Payne, Bieske, Radom, and Schmidt]{oco17}
+O{'}Connor,~G.~D.; Chan,~B.; Sanelli,~J.~A.; Cergol,~K.~M.; Dryza,~V.;
+  Payne,~R.~J.; Bieske,~E.~J.; Radom,~L.; Schmidt,~T.~W. Hydrogen-adduction to
+  open-shell graphene fragments: spectroscopy{,} thermochemistry and
+  astrochemistry. \emph{Chem. Sci.} \textbf{2017}, \emph{8}, 1186--1194\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[O’Connor \latin{et~al.}(2011)O’Connor, Troy, Roberts, Chalyavi,
+  Fückel, Crossley, Nauta, Stanton, and Schmidt]{oco11}
+O’Connor,~G.~D.; Troy,~T.~P.; Roberts,~D.~A.; Chalyavi,~N.; Fückel,~B.;
+  Crossley,~M.~J.; Nauta,~K.; Stanton,~J.~F.; Schmidt,~T.~W. Spectroscopy of
+  the Free Phenalenyl Radical. \emph{J. Am. Chem. Soc.} \textbf{2011},
+  \emph{133}, 14554--14557, PMID: 21854045\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Soorkia \latin{et~al.}(2010)Soorkia, Taatjes, Osborn, Selby, Trevitt,
+  Wilson, and Leone]{soo10}
+Soorkia,~S.; Taatjes,~C.~A.; Osborn,~D.~L.; Selby,~T.~M.; Trevitt,~A.~J.;
+  Wilson,~K.~R.; Leone,~S.~R. Direct detection of pyridine formation by the
+  reaction of CH (CD) with pyrrole: a ring expansion reaction. \emph{Phys.
+  Chem. Chem. Phys.} \textbf{2010}, \emph{12}, 8750\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Caster \latin{et~al.}(2019)Caster, Donnellan, Selby, and
+  Goulay]{cas19}
+Caster,~K.~L.; Donnellan,~Z.~N.; Selby,~T.~M.; Goulay,~F. Kinetic
+  Investigations of the CH (X$^2$$\Pi$) Radical Reaction with Cyclopentadiene.
+  \emph{J. Phys. Chem. A} \textbf{2019}, \emph{123}, 5692--5703, PMID:
+  31194547\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Love \latin{et~al.}(2011)Love, Parthasarathy, and Gollahalli]{lov11}
+Love,~N.; Parthasarathy,~R.~N.; Gollahalli,~S.~R. Concentration Measurements of
+  CH and OH Radicals in Laminar Biofuel Flames. \emph{Int. J. Green Energy}
+  \textbf{2011}, \emph{8}, 113--120\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Tinaut \latin{et~al.}(2011)Tinaut, Reyes, Giménez, and Pastor]{tin11}
+Tinaut,~F.~V.; Reyes,~M.; Giménez,~B.; Pastor,~J.~V. Measurements of OH* and
+  CH* Chemiluminescence in Premixed Flames in a Constant Volume Combustion Bomb
+  under Autoignition Conditions. \emph{Energ. Fuel} \textbf{2011}, \emph{25},
+  119--129\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Zhang \latin{et~al.}(2012)Zhang, Guo, Liang, Dai, and Yu]{zha12}
+Zhang,~T.; Guo,~Q.; Liang,~Q.; Dai,~Z.; Yu,~G. Distribution Characteristics of
+  OH*, CH*, and C$_2$* Luminescence in CH$_4$/O$_2$ Co-flow Diffusion Flames.
+  \emph{Energ. Fuel} \textbf{2012}, \emph{26}, 5503–5508\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[{Gerin, M.} \latin{et~al.}(2010){Gerin, M.}, {De Luca, M.},
+  {Goicoechea, J. R.}, {Herbst, E.}, {Falgarone, E.}, {Godard, B.}, {Bell, T.
+  A.}, {Coutens, A.}, {Ka\'{}zmierczak, M.}, {Sonnentrucker, P.}, {Black, J.
+  H.}, {Neufeld, D. A.}, {Phillips, T. G.}, {Pearson, J.}, {Rimmer, P. B.},
+  {Hassel, G.}, {Lis, D. C.}, {Vastel, C.}, {Boulanger, F.}, {Cernicharo, J.},
+  {Dartois, E.}, {Encrenaz, P.}, {Giesen, T.}, {Goldsmith, P. F.}, {Gupta, H.},
+  {Gry, C.}, {Hennebelle, P.}, {Hily-Blant, P.}, {Joblin, C.}, {Kolos, R.},
+  {Krelowski, J.}, {Mart\'{\i}n-Pintado, J.}, {Monje, R.}, {Mookerjea, B.},
+  {Perault, M.}, {Persson, C.}, {Plume, R.}, {Salez, M.}, {Schmidt, M.},
+  {Stutzki, J.}, {Teyssier, D.}, {Yu, S.}, {Contursi, A.}, {Menten, K.},
+  {Geballe, T. R.}, {Schlemmer, S.}, {Morris, P.}, {Hatch, W. A.}, {Imram, M.},
+  {Ward, J. S.}, {Caux, E.}, {G\"usten, R.}, {Klein, T.}, {Roelfsema, P.},
+  {Dieleman, P.}, {Schieder, R.}, {Honingh, N.}, and {Zmuidzinas, J.}]{ger10}
+{Gerin, M.}, \latin{et~al.}  Interstellar CH absorption in the diffuse
+  interstellar medium along the sight-lines to G10.6-0.4 (W31C), W49N, and W51.
+  \emph{Astron. Astrophys.} \textbf{2010}, \emph{521}, L16\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[{Adams}(1941)]{ada41}
+{Adams},~W.~S. {Some Results with the COUD{\'E} Spectrograph of the Mount
+  Wilson Observatory.} \emph{Astrophys. J.} \textbf{1941}, \emph{93}, 11\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Zhou and Fisher(2006)Zhou, and Fisher]{zho06}
+Zhou,~J.; Fisher,~E.~R. Surface Reactivity and Energetics of CH Radicals during
+  Plasma Deposition of Hydrogenated Diamondlike Carbon Films. \emph{J. Phys.
+  Chem. B} \textbf{2006}, \emph{110}, 21911--21919, PMID: 17064158\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Goulay \latin{et~al.}(2009)Goulay, Trevitt, Meloni, Selby, Osborn,
+  Taatjes, Vereecken, and Leone]{gou09}
+Goulay,~F.; Trevitt,~A.~J.; Meloni,~G.; Selby,~T.~M.; Osborn,~D.~L.;
+  Taatjes,~C.~A.; Vereecken,~L.; Leone,~S.~R. Cyclic Versus Linear Isomers
+  Produced by Reaction of the Methylidyne Radical (CH) with Small Unsaturated
+  Hydrocarbons. \emph{J. Am. Chem. Soc.} \textbf{2009}, \emph{131}, 993--1005,
+  PMID: 19123915\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Trevitt \latin{et~al.}(2013)Trevitt, Prendergast, Goulay, Savee,
+  Osborn, Taatjes, and Leone]{tre13}
+Trevitt,~A.~J.; Prendergast,~M.~B.; Goulay,~F.; Savee,~J.~D.; Osborn,~D.~L.;
+  Taatjes,~C.~A.; Leone,~S.~R. Product Branching Fractions of the CH + Propene
+  Reaction from Synchrotron Photoionization Mass Spectrometry. \emph{J. Phys.
+  Chem. A} \textbf{2013}, \emph{117}, 6450–6457\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Goulay \latin{et~al.}(2012)Goulay, Trevitt, Savee, Bouwman, Osborn,
+  Taatjes, Wilson, and Leone]{gou12}
+Goulay,~F.; Trevitt,~A.~J.; Savee,~J.~D.; Bouwman,~J.; Osborn,~D.~L.;
+  Taatjes,~C.~A.; Wilson,~K.~R.; Leone,~S.~R. Product Detection of the CH
+  Radical Reaction with Acetaldehyde. \emph{J. Phys. Chem. A} \textbf{2012},
+  \emph{116}, 6091–6106\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Trevitt and Goulay(2016)Trevitt, and Goulay]{tre16}
+Trevitt,~A.~J.; Goulay,~F. Insights into gas-phase reaction mechanisms of small
+  carbon radicals using isomer-resolved product detection. \emph{Phys. Chem.
+  Chem. Phys.} \textbf{2016}, \emph{18}, 5867--5882\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Swiderek and Hohlneicher(1991)Swiderek, and Hohlneicher]{swi91}
+Swiderek,~P.; Hohlneicher,~G. Comment on the Low Lying Singlet States of
+  Acenaphthene. \emph{Ber. Bunsenges. Phys. Chem.} \textbf{1991}, \emph{95},
+  1683–1684\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Krechkivska \latin{et~al.}(2019)Krechkivska, Wilcox, Nauta, Kable, and
+  Schmidt]{kre19}
+Krechkivska,~O.; Wilcox,~C.~M.; Nauta,~K.; Kable,~S.~H.; Schmidt,~T.~W.
+  Quantum-Induced Symmetry Breaking in the Deuterated Dihydroanthracenyl
+  Radical. \emph{J. Phys. Chem. A} \textbf{2019}, \emph{123}, 6711--6719\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Yu \latin{et~al.}(1993)Yu, Cullin, Williamson, and Miller]{lia93}
+Yu,~L.; Cullin,~D.~W.; Williamson,~J.~M.; Miller,~T.~A. High resolution laser
+  spectroscopy of asymmetrically deuterated cyclopentadienyl radicals: A study
+  of vibronic degeneracy resolution and Jahn–Teller distortion. \emph{J.
+  Chem. Phys.} \textbf{1993}, \emph{98}, 2682--2698\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Reilly \latin{et~al.}(2009)Reilly, Nakajima, Troy, Chalyavi, Duncan,
+  Nauta, Kable, and Schmidt]{rei09}
+Reilly,~N.~J.; Nakajima,~M.; Troy,~T.~P.; Chalyavi,~N.; Duncan,~K.~A.;
+  Nauta,~K.; Kable,~S.~H.; Schmidt,~T.~W. Spectroscopic Identification of the
+  Resonance-Stabilized cis- and trans-1-Vinylpropargyl Radicals. \emph{J. Am.
+  Chem. Soc.} \textbf{2009}, \emph{131}, 13423--13429\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Frisch \latin{et~al.}(2016)Frisch, Trucks, Schlegel, Scuseria, Robb,
+  Cheeseman, Scalmani, Barone, Petersson, Nakatsuji, Li, Caricato, Marenich,
+  Bloino, Janesko, Gomperts, Mennucci, Hratchian, Ortiz, Izmaylov, Sonnenberg,
+  Williams-Young, Ding, Lipparini, Egidi, Goings, Peng, Petrone, Henderson,
+  Ranasinghe, Zakrzewski, Gao, Rega, Zheng, Liang, Hada, Ehara, Toyota, Fukuda,
+  Hasegawa, Ishida, Nakajima, Honda, Kitao, Nakai, Vreven, Throssell,
+  Montgomery, Peralta, Ogliaro, Bearpark, Heyd, Brothers, Kudin, Staroverov,
+  Keith, Kobayashi, Normand, Raghavachari, Rendell, Burant, Iyengar, Tomasi,
+  Cossi, Millam, Klene, Adamo, Cammi, Ochterski, Martin, Morokuma, Farkas,
+  Foresman, and Fox]{g16}
+Frisch,~M.~J. \latin{et~al.}  Gaussian˜16 {R}evision {C}.01. 2016; Gaussian
+  Inc. Wallingford CT\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[{da Silva}(2013)]{das13}
+{da Silva},~G. G3X-K theory: A composite theoretical method for thermochemical
+  kinetics. \emph{Chemical Physics Letters} \textbf{2013}, \emph{558},
+  109--113\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\end{mcitethebibliography}

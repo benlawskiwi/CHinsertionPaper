@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2020)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: PhenRad.aux
+The style file: achemso.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: acs-PhenRad.bib
+Database file #2: PhenRad.bib
+achemso 2019-02-14 v3.12a
+You've used 66 entries,
+            2538 wiz_defined-function locations,
+            1259 strings with 24782 characters,
+and the built_in function-call counts, 27279 in all, are:
+= -- 2061
+> -- 1890
+< -- 25
++ -- 719
+- -- 653
+* -- 3115
+:= -- 3672
+add.period$ -- 130
+call.type$ -- 66
+change.case$ -- 4
+chr.to.int$ -- 2
+cite$ -- 66
+duplicate$ -- 1374
+empty$ -- 1698
+format.name$ -- 743
+if$ -- 5198
+int.to.chr$ -- 0
+int.to.str$ -- 1
+missing$ -- 0
+newline$ -- 418
+num.names$ -- 195
+pop$ -- 117
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 65
+stack$ -- 0
+substring$ -- 1606
+swap$ -- 1758
+text.length$ -- 130
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 459
+warning$ -- 0
+while$ -- 235
+width$ -- 0
+write$ -- 877

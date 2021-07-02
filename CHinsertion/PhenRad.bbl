@@ -8,7 +8,7 @@
 \providecommand*\mcitethebibliography{\thebibliography}
 \csname @ifundefined\endcsname{endmcitethebibliography}
   {\let\endmcitethebibliography\endthebibliography}{}
-\begin{mcitethebibliography}{66}
+\begin{mcitethebibliography}{67}
 \providecommand*\natexlab[1]{#1}
 \providecommand*\mciteSetBstSublistMode[1]{}
 \providecommand*\mciteSetBstMaxWidthForm[2]{}
@@ -313,7 +313,7 @@ Siegmann,~K.; Sattler,~K. Formation mechanism for polycyclic aromatic
 \bibitem[Shukla \latin{et~al.}(2008)Shukla, Susa, Miyoshi, and Koshi]{shu08}
 Shukla,~B.; Susa,~A.; Miyoshi,~A.; Koshi,~M. Role of Phenyl Radicals in the
   Growth of Polycyclic Aromatic Hydrocarbons. \emph{J. Phys. Chem. A}
-  \textbf{2008}, \emph{112}, 2362--2369, PMID: 18298104\relax
+  \textbf{2008}, \emph{112}, 2362--2369\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
@@ -336,7 +336,7 @@ Frenklach,~M.; Mebel,~A.~M. On the mechanism of soot nucleation. \emph{Phys.
 \bibitem[Kislov \latin{et~al.}(2013)Kislov, Sadovnikov, and Mebel]{kis13}
 Kislov,~V.~V.; Sadovnikov,~A.~I.; Mebel,~A.~M. Formation Mechanism of
   Polycyclic Aromatic Hydrocarbons beyond the Second Aromatic Ring. \emph{J.
-  Phys. Chem. A} \textbf{2013}, \emph{117}, 4794--4816, PMID: 23672431\relax
+  Phys. Chem. A} \textbf{2013}, \emph{117}, 4794--4816\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
@@ -352,7 +352,7 @@ Moskaleva,~L.; Mebel,~A.; Lin,~M. The CH$_3$+C$_5$H$_5$ reaction: A potential
 \bibitem[Sharma and Green(2009)Sharma, and Green]{sha09}
 Sharma,~S.; Green,~W.~H. Computed Rate Coefficients and Product Yields for
   c-C$_5$H$_5$ + CH$_3$ $\rightarrow$ Products. \emph{J. Phys. Chem. A}
-  \textbf{2009}, \emph{113}, 8871--8882, PMID: 19591475\relax
+  \textbf{2009}, \emph{113}, 8871--8882\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
@@ -424,7 +424,7 @@ O{'}Connor,~G.~D.; Chan,~B.; Sanelli,~J.~A.; Cergol,~K.~M.; Dryza,~V.;
 O’Connor,~G.~D.; Troy,~T.~P.; Roberts,~D.~A.; Chalyavi,~N.; Fückel,~B.;
   Crossley,~M.~J.; Nauta,~K.; Stanton,~J.~F.; Schmidt,~T.~W. Spectroscopy of
   the Free Phenalenyl Radical. \emph{J. Am. Chem. Soc.} \textbf{2011},
-  \emph{133}, 14554--14557, PMID: 21854045\relax
+  \emph{133}, 14554--14557\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
@@ -443,8 +443,7 @@ Soorkia,~S.; Taatjes,~C.~A.; Osborn,~D.~L.; Selby,~T.~M.; Trevitt,~A.~J.;
   Goulay]{cas19}
 Caster,~K.~L.; Donnellan,~Z.~N.; Selby,~T.~M.; Goulay,~F. Kinetic
   Investigations of the CH (X$^2$$\Pi$) Radical Reaction with Cyclopentadiene.
-  \emph{J. Phys. Chem. A} \textbf{2019}, \emph{123}, 5692--5703, PMID:
-  31194547\relax
+  \emph{J. Phys. Chem. A} \textbf{2019}, \emph{123}, 5692--5703\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
@@ -504,7 +503,7 @@ Zhang,~T.; Guo,~Q.; Liang,~Q.; Dai,~Z.; Yu,~G. Distribution Characteristics of
 \bibitem[Zhou and Fisher(2006)Zhou, and Fisher]{zho06}
 Zhou,~J.; Fisher,~E.~R. Surface Reactivity and Energetics of CH Radicals during
   Plasma Deposition of Hydrogenated Diamondlike Carbon Films. \emph{J. Phys.
-  Chem. B} \textbf{2006}, \emph{110}, 21911--21919, PMID: 17064158\relax
+  Chem. B} \textbf{2006}, \emph{110}, 21911--21919\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
@@ -514,8 +513,8 @@ Zhou,~J.; Fisher,~E.~R. Surface Reactivity and Energetics of CH Radicals during
 Goulay,~F.; Trevitt,~A.~J.; Meloni,~G.; Selby,~T.~M.; Osborn,~D.~L.;
   Taatjes,~C.~A.; Vereecken,~L.; Leone,~S.~R. Cyclic Versus Linear Isomers
   Produced by Reaction of the Methylidyne Radical (CH) with Small Unsaturated
-  Hydrocarbons. \emph{J. Am. Chem. Soc.} \textbf{2009}, \emph{131}, 993--1005,
-  PMID: 19123915\relax
+  Hydrocarbons. \emph{J. Am. Chem. Soc.} \textbf{2009}, \emph{131},
+  993--1005\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
@@ -544,6 +543,17 @@ Goulay,~F.; Trevitt,~A.~J.; Savee,~J.~D.; Bouwman,~J.; Osborn,~D.~L.;
 Trevitt,~A.~J.; Goulay,~F. Insights into gas-phase reaction mechanisms of small
   carbon radicals using isomer-resolved product detection. \emph{Phys. Chem.
   Chem. Phys.} \textbf{2016}, \emph{18}, 5867--5882\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Reilly \latin{et~al.}(2018)Reilly, Da~Silva, Wilcox, Ge, Kokkin, Troy,
+  Nauta, Kable, Mccarthy, Schmidt, and et~al.]{rei18}
+Reilly,~N.~J.; Da~Silva,~G.; Wilcox,~C.~M.; Ge,~Z.; Kokkin,~D.~L.; Troy,~T.~P.;
+  Nauta,~K.; Kable,~S.~H.; Mccarthy,~M.~C.; Schmidt,~T.~W.; et~al.,
+  Interconversion of Methyltropyl and Xylyl Radicals: A Pathway Unavailable to
+  the Benzyl–Tropyl Rearrangement. \emph{J. Phys. Chem. A} \textbf{2018},
+  \emph{122}, 1261–1269\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax

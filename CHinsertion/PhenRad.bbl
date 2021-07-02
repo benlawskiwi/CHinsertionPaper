@@ -8,7 +8,7 @@
 \providecommand*\mcitethebibliography{\thebibliography}
 \csname @ifundefined\endcsname{endmcitethebibliography}
   {\let\endmcitethebibliography\endthebibliography}{}
-\begin{mcitethebibliography}{67}
+\begin{mcitethebibliography}{69}
 \providecommand*\natexlab[1]{#1}
 \providecommand*\mciteSetBstSublistMode[1]{}
 \providecommand*\mciteSetBstMaxWidthForm[2]{}
@@ -195,6 +195,18 @@ Campbell,~E.~K.; Holz,~M.; Gerlich,~D.; Maier,~J.~P. Laboratory confirmation of
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
 \EndOfBibitem
+\bibitem[Mcguire \latin{et~al.}(2021)Mcguire, Loomis, Burkhardt, Lee,
+  Shingledecker, Charnley, Cooke, Cordiner, Herbst, Kalenskii, and
+  et~al.]{mcg21}
+Mcguire,~B.~A.; Loomis,~R.~A.; Burkhardt,~A.~M.; Lee,~K. L.~K.;
+  Shingledecker,~C.~N.; Charnley,~S.~B.; Cooke,~I.~R.; Cordiner,~M.~A.;
+  Herbst,~E.; Kalenskii,~S.; et~al., Detection of two interstellar polycyclic
+  aromatic hydrocarbons via spectral matched filtering. \emph{Science}
+  \textbf{2021}, \emph{371}, 1265–1269\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
 \bibitem[{Frenklach} and {Feigelson}(1989){Frenklach}, and {Feigelson}]{fre89}
 {Frenklach},~M.; {Feigelson},~E.~D. {Formation of Polycyclic Aromatic
   Hydrocarbons in Circumstellar Envelopes}. \emph{Astrophys. J.} \textbf{1989},
@@ -322,6 +334,16 @@ Shukla,~B.; Susa,~A.; Miyoshi,~A.; Koshi,~M. Role of Phenyl Radicals in the
 Shukla,~B.; Miyoshi,~A.; Koshi,~M. Role of Methyl Radicals in the Growth of
   PAHs. \emph{J. Am. Soc. Mass Spectr.} \textbf{2010}, \emph{21}, 534 --
   544\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Doddipatla \latin{et~al.}(2021)Doddipatla, Galimova, Wei, Thomas, He,
+  Yang, Morozov, Shingledecker, Mebel, Kaiser, and et~al.]{dod21}
+Doddipatla,~S.; Galimova,~G.~R.; Wei,~H.; Thomas,~A.~M.; He,~C.; Yang,~Z.;
+  Morozov,~A.~N.; Shingledecker,~C.~N.; Mebel,~A.~M.; Kaiser,~R.~I.; et~al.,
+  Low-temperature gas-phase formation of indene in the interstellar medium.
+  \emph{Sci. Adv.} \textbf{2021}, \emph{7}, eabd4044\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax

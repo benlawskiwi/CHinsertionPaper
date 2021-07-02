@@ -4,46 +4,46 @@ The top-level auxiliary file: PhenRad.aux
 The style file: achemso.bst
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: acs-PhenRad.bib
-Database file #2: PhenRadNew.bib
+Database file #2: PhenRad.bib
 achemso 2019-02-14 v3.12a
-You've used 67 entries,
+You've used 69 entries,
             2538 wiz_defined-function locations,
-            1259 strings with 25058 characters,
-and the built_in function-call counts, 27838 in all, are:
-= -- 2087
-> -- 1948
+            1272 strings with 25773 characters,
+and the built_in function-call counts, 29083 in all, are:
+= -- 2164
+> -- 2064
 < -- 25
-+ -- 742
-- -- 675
-* -- 3183
-:= -- 3755
-add.period$ -- 132
-call.type$ -- 67
++ -- 788
+- -- 719
+* -- 3330
+:= -- 3932
+add.period$ -- 136
+call.type$ -- 69
 change.case$ -- 4
 chr.to.int$ -- 2
-cite$ -- 67
-duplicate$ -- 1402
-empty$ -- 1720
-format.name$ -- 766
-if$ -- 5293
+cite$ -- 69
+duplicate$ -- 1472
+empty$ -- 1775
+format.name$ -- 812
+if$ -- 5519
 int.to.chr$ -- 0
 int.to.str$ -- 1
 missing$ -- 0
-newline$ -- 424
-num.names$ -- 198
-pop$ -- 119
+newline$ -- 436
+num.names$ -- 204
+pop$ -- 123
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 66
+skip$ -- 68
 stack$ -- 0
-substring$ -- 1639
-swap$ -- 1802
-text.length$ -- 132
+substring$ -- 1696
+swap$ -- 1904
+text.length$ -- 136
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 466
+type$ -- 480
 warning$ -- 0
-while$ -- 238
+while$ -- 244
 width$ -- 0
-write$ -- 883
+write$ -- 909
